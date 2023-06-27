@@ -1,1 +1,1 @@
-# feynn-labs
+# sample market segmentation on mcdonalds dataset
