@@ -1,1 +1,2 @@
-# sample market segmentation on mcdonalds dataset
+# projects performed as an AI-ML intern for feynn labs.
+
