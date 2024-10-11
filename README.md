@@ -1,2 +1,2 @@
-# projects performed as an AI-ML intern for feynn labs.
+# projects performed as an ML intern for feynn labs.
 
